@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/parisdiaz19/phase-music-player.git/static/css/main.6ecbad27.chunk.css",
-    "main.js": "/parisdiaz19/phase-music-player.git/static/js/main.64af0f7c.chunk.js",
-    "main.js.map": "/parisdiaz19/phase-music-player.git/static/js/main.64af0f7c.chunk.js.map",
-    "runtime-main.js": "/parisdiaz19/phase-music-player.git/static/js/runtime-main.011b49f7.js",
-    "runtime-main.js.map": "/parisdiaz19/phase-music-player.git/static/js/runtime-main.011b49f7.js.map",
-    "static/js/2.cdfcc53b.chunk.js": "/parisdiaz19/phase-music-player.git/static/js/2.cdfcc53b.chunk.js",
-    "static/js/2.cdfcc53b.chunk.js.map": "/parisdiaz19/phase-music-player.git/static/js/2.cdfcc53b.chunk.js.map",
-    "static/js/3.b63fde23.chunk.js": "/parisdiaz19/phase-music-player.git/static/js/3.b63fde23.chunk.js",
-    "static/js/3.b63fde23.chunk.js.map": "/parisdiaz19/phase-music-player.git/static/js/3.b63fde23.chunk.js.map",
-    "index.html": "/parisdiaz19/phase-music-player.git/index.html",
-    "static/css/main.6ecbad27.chunk.css.map": "/parisdiaz19/phase-music-player.git/static/css/main.6ecbad27.chunk.css.map",
-    "static/js/2.cdfcc53b.chunk.js.LICENSE.txt": "/parisdiaz19/phase-music-player.git/static/js/2.cdfcc53b.chunk.js.LICENSE.txt"
+    "main.css": "/parisdiaz19/phase-music-player/static/css/main.6ecbad27.chunk.css",
+    "main.js": "/parisdiaz19/phase-music-player/static/js/main.64af0f7c.chunk.js",
+    "main.js.map": "/parisdiaz19/phase-music-player/static/js/main.64af0f7c.chunk.js.map",
+    "runtime-main.js": "/parisdiaz19/phase-music-player/static/js/runtime-main.19a8c08f.js",
+    "runtime-main.js.map": "/parisdiaz19/phase-music-player/static/js/runtime-main.19a8c08f.js.map",
+    "static/js/2.cdfcc53b.chunk.js": "/parisdiaz19/phase-music-player/static/js/2.cdfcc53b.chunk.js",
+    "static/js/2.cdfcc53b.chunk.js.map": "/parisdiaz19/phase-music-player/static/js/2.cdfcc53b.chunk.js.map",
+    "static/js/3.b63fde23.chunk.js": "/parisdiaz19/phase-music-player/static/js/3.b63fde23.chunk.js",
+    "static/js/3.b63fde23.chunk.js.map": "/parisdiaz19/phase-music-player/static/js/3.b63fde23.chunk.js.map",
+    "index.html": "/parisdiaz19/phase-music-player/index.html",
+    "static/css/main.6ecbad27.chunk.css.map": "/parisdiaz19/phase-music-player/static/css/main.6ecbad27.chunk.css.map",
+    "static/js/2.cdfcc53b.chunk.js.LICENSE.txt": "/parisdiaz19/phase-music-player/static/js/2.cdfcc53b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.011b49f7.js",
+    "static/js/runtime-main.19a8c08f.js",
     "static/js/2.cdfcc53b.chunk.js",
     "static/css/main.6ecbad27.chunk.css",
     "static/js/main.64af0f7c.chunk.js"
