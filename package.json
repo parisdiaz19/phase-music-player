@@ -2,7 +2,7 @@
   "name": "react-player",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/parisdiaz19/phase-music-player.git",
+  "homepage": "https://github.com/parisdiaz19/phase-music-player",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.1.12",
